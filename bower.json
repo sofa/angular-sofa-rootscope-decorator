@@ -1,0 +1,18 @@
+{
+    "name": "angular-sofa-rootscope-decorator",
+    "version": "0.1.0",
+    "homepage": "http://www.sofa.io",
+    "authors": [
+        "Pascal Precht <pascal@couchcommerce.com>"
+    ],
+    "description": "Sofa Web SDK Angular $rootScope decorator component",
+    "main": "dist/sofaRootScopeDecorator.js",
+    "keywords": [
+        "sofa",
+        "sofa.io",
+        "web",
+        "sdk",
+        "directive"
+    ],
+    "license": "GPL"
+}
